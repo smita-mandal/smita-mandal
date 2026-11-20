@@ -8,7 +8,7 @@ I'm an aerospace engineer who enjoys building software for aircraft, spacecraft,
 - 👯 I’m looking to collaborate on embedded systems, robotics, and aerospace projects
 
 - 🌐 Check out my portfolio: https://smita-mandal.crd.co/
-- 📫 How to reach me: smita.mandal.991@outlook.com
+- 📫 How to reach me: smita_mandal@outlook.com
 - ⚡ Fun fact: I keep saying "just one more fix"... it rarely ends there.
 
 <!--
